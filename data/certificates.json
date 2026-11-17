@@ -1,0 +1,218 @@
+[
+  {
+    "title": "HCIA Datacom Certification",
+    "issuer": "Huawei",
+    "group": "Huawei",
+    "type": "Certification",
+    "date": "Valid through Jul 22, 2029",
+    "image": "/certs/c01.jpg",
+    "thumb": "/certs/t01.jpg"
+  },
+  {
+    "title": "HCIA-Datacom V1.0 Course",
+    "issuer": "Huawei ICT Academy",
+    "group": "Huawei",
+    "type": "Course completion",
+    "date": "11 May 2026",
+    "image": "/certs/c02.jpg",
+    "thumb": "/certs/t02.jpg"
+  },
+  {
+    "title": "Computer Network",
+    "issuer": "Huawei ICT Academy",
+    "group": "Huawei",
+    "type": "Course completion",
+    "date": "29 Apr 2026",
+    "image": "/certs/c03.jpg",
+    "thumb": "/certs/t03.jpg"
+  },
+  {
+    "title": "General Knowledge of Computer Networks",
+    "issuer": "Huawei ICT Academy",
+    "group": "Huawei",
+    "type": "Course completion",
+    "date": "29 Apr 2026",
+    "image": "/certs/c04.jpg",
+    "thumb": "/certs/t04.jpg"
+  },
+  {
+    "title": "HCIA-Cloud Service V3.5 Course",
+    "issuer": "Huawei ICT Academy",
+    "group": "Huawei",
+    "type": "Course completion",
+    "date": "10 May 2026",
+    "image": "/certs/c05.jpg",
+    "thumb": "/certs/t05.jpg"
+  },
+  {
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy · ELCC",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "24 Oct 2025",
+    "image": "/certs/c06.jpg",
+    "thumb": "/certs/t06.jpg"
+  },
+  {
+    "title": "CCNA: Enterprise Networking, Security, and Automation",
+    "issuer": "Cisco Networking Academy · MCIT",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "21 Jun 2026",
+    "image": "/certs/c07.jpg",
+    "thumb": "/certs/t07.jpg"
+  },
+  {
+    "title": "CCNA: Switching, Routing, and Wireless Essentials",
+    "issuer": "Cisco Networking Academy · MCIT",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "21 Jun 2026",
+    "image": "/certs/c08.jpg",
+    "thumb": "/certs/t08.jpg"
+  },
+  {
+    "title": "CCNA: Introduction to Networks",
+    "issuer": "Cisco Networking Academy · MCIT",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "21 Jun 2026",
+    "image": "/certs/c09.jpg",
+    "thumb": "/certs/t09.jpg"
+  },
+  {
+    "title": "Networking Basics",
+    "issuer": "Cisco Networking Academy · Nexus Tech Academy",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "04 Jan 2026",
+    "image": "/certs/c10.jpg",
+    "thumb": "/certs/t10.jpg"
+  },
+  {
+    "title": "Operating Systems Basics",
+    "issuer": "Cisco Networking Academy · ELCC",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "22 Aug 2026",
+    "image": "/certs/c11.jpg",
+    "thumb": "/certs/t11.jpg"
+  },
+  {
+    "title": "Computer Hardware Basics",
+    "issuer": "Cisco Networking Academy · ELCC",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "22 Aug 2026",
+    "image": "/certs/c12.jpg",
+    "thumb": "/certs/t12.jpg"
+  },
+  {
+    "title": "English for IT 2",
+    "issuer": "Cisco Networking Academy · Nexus Tech Academy",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "23 Aug 2026",
+    "image": "/certs/c13.jpg",
+    "thumb": "/certs/t13.jpg"
+  },
+  {
+    "title": "English for IT 1",
+    "issuer": "Cisco Networking Academy · Nexus Tech Academy",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "22 Aug 2026",
+    "image": "/certs/c14.jpg",
+    "thumb": "/certs/t14.jpg"
+  },
+  {
+    "title": "English for IT: Advice and Time",
+    "issuer": "Cisco Networking Academy · ELCC",
+    "group": "Cisco",
+    "type": "Course completion",
+    "date": "17 Aug 2026",
+    "image": "/certs/c15.jpg",
+    "thumb": "/certs/t15.jpg"
+  },
+  {
+    "title": "Introduction to Cybersecurity Awareness",
+    "issuer": "HP LIFE",
+    "group": "HP LIFE",
+    "type": "Certificate",
+    "date": "23 Sep 2024",
+    "image": "/certs/c16.jpg",
+    "thumb": "/certs/t16.jpg"
+  },
+  {
+    "title": "Introduction to Digital Business Skills",
+    "issuer": "HP LIFE",
+    "group": "HP LIFE",
+    "type": "Certificate",
+    "date": "27 Sep 2025",
+    "image": "/certs/c17.jpg",
+    "thumb": "/certs/t17.jpg"
+  },
+  {
+    "title": "Data Science & Analytics",
+    "issuer": "HP LIFE",
+    "group": "HP LIFE",
+    "type": "Certificate",
+    "date": "23 Sep 2024",
+    "image": "/certs/c18.jpg",
+    "thumb": "/certs/t18.jpg"
+  },
+  {
+    "title": "AI for Business Professionals",
+    "issuer": "HP LIFE",
+    "group": "HP LIFE",
+    "type": "Certificate",
+    "date": "27 Sep 2025",
+    "image": "/certs/c19.jpg",
+    "thumb": "/certs/t19.jpg"
+  },
+  {
+    "title": "Rehabilitation and Preparation for the Labor Market (72 hours)",
+    "issuer": "Cairo University",
+    "group": "Other",
+    "type": "Certificate",
+    "date": "10 Jun – 23 Aug 2023",
+    "image": "/certs/c20.jpg",
+    "thumb": "/certs/t20.jpg"
+  },
+  {
+    "title": "Soft Skills",
+    "issuer": "Egyptian Foundation for IT",
+    "group": "Other",
+    "type": "Certificate",
+    "date": "Course certificate",
+    "image": "/certs/c21.jpg",
+    "thumb": "/certs/t21.jpg"
+  },
+  {
+    "title": "ICDL",
+    "issuer": "Egyptian Foundation for IT",
+    "group": "Other",
+    "type": "Certificate",
+    "date": "Course certificate",
+    "image": "/certs/c22.jpg",
+    "thumb": "/certs/t22.jpg"
+  },
+  {
+    "title": "Integrated English Language",
+    "issuer": "Egyptian Foundation for IT",
+    "group": "Other",
+    "type": "Certificate",
+    "date": "Course certificate",
+    "image": "/certs/c23.jpg",
+    "thumb": "/certs/t23.jpg"
+  },
+  {
+    "title": "Training in Translation of International Organizations (30 hours)",
+    "issuer": "Middle East News Agency (MENA)",
+    "group": "Other",
+    "type": "Certificate",
+    "date": "16 – 30 Aug 2022",
+    "image": "/certs/c24.jpg",
+    "thumb": "/certs/t24.jpg"
+  }
+]

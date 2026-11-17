@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Networking & Infrastructure",
+    "text": "TCP/IP · IP addressing & subnetting · LAN/WAN · Routing & switching · VLANs · STP · OSPF · WLAN · Cisco networking concepts"
+  },
+  {
+    "title": "Network Security",
+    "text": "AAA · Telnet vs SSH · RSA keys · privilege levels · VTY access · Wireshark analysis · security fundamentals"
+  },
+  {
+    "title": "Tools & Platforms",
+    "text": "Huawei eNSP · Cisco Packet Tracer · Wireshark · Ubuntu Linux CLI"
+  },
+  {
+    "title": "IT & Soft Skills",
+    "text": "Microsoft Excel (pivot tables, formulas) · Word · IT support fundamentals · problem solving · analytical thinking · teamwork · fast learner"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "eyebrow": "Network Engineering · Cairo, Egypt",
+  "name": "Mohamed Ahap Ayech",
+  "role": "Junior Network Engineer",
+  "hero_text": "Huawei HCIA Datacom certified, with Cisco CCNA coursework. I build and validate routing, switching and network security labs in Huawei eNSP and Cisco Packet Tracer, and I'm open to international and remote opportunities.",
+  "chips": [
+    "Cisco",
+    "Huawei",
+    "Routing & Switching",
+    "Network Security",
+    "Enterprise Networking"
+  ],
+  "about_intro": "Highly motivated network professional with hands-on lab experience in enterprise networking through Cisco CCNA and Huawei HCIA Datacom training.",
+  "about_text": "Skilled in routing and switching, IP addressing, subnetting, VLANs, STP, OSPF, WLAN, network security fundamentals and troubleshooting. Experienced in designing, configuring and validating topologies using Cisco Packet Tracer and Huawei eNSP.\n\nPassionate about enterprise infrastructure and delivering reliable, secure and scalable network solutions.",
+  "experience_role": "Network Engineering Trainee",
+  "experience_org": "Digilians, Digital Pioneers Initiative",
+  "experience_points": [
+    "Structured training in networking fundamentals",
+    "LAN/WAN concepts, IP addressing and subnetting",
+    "Routing and switching fundamentals in lab environments",
+    "Basic network security principles"
+  ],
+  "languages": "Arabic (native) · English (advanced) · German (A2, progressing to B1)",
+  "projects_intro": "Lab summaries based on my LinkedIn posts. Banner graphics are decorative, not lab evidence.",
+  "projects_note": "Evidence note: original topology screenshots and configs will be added as I publish them. No lab screenshots are shown here, to keep this page accurate.",
+  "certs_intro": "Each certificate is viewable in full. Huawei ICT Academy and Cisco Networking Academy items are course completions, as their certificates state. Only the Huawei HCIA Datacom certificate is a Huawei certification.",
+  "hcia_verify_url": "https://e.huawei.com/cn/talent/#/cert/certificate-verification",
+  "education_degree": "Bachelor of Arts in English Interpreting",
+  "education_place": "Helwan University – July 2025",
+  "education_grade": "Grade: Very Good (B+) – 86.63%, with Honors",
+  "cv_file": "/files/Mohamed_Ahap_CV.pdf",
+  "certs_pdf_file": "/files/Mohamed_Ahap_All_Certificates.pdf",
+  "cv_intro": "Download my full CV as a PDF, or browse every certificate above.",
+  "email": "mayech99@gmail.com",
+  "phone": "+20 1020940717",
+  "linkedin_url": "https://www.linkedin.com/in/mohamed-ahap-network",
+  "linkedin_label": "mohamed-ahap-network",
+  "contact_note": "Based in Cairo, Egypt · open to remote and international roles.",
+  "footer": "© 2026 Mohamed Ahap Ayech · Junior Network Engineer"
+}

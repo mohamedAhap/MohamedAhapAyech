@@ -1,0 +1,111 @@
+[
+  {
+    "category": "Huawei eNSP · WAN",
+    "title": "PPPoE Client–Server Implementation",
+    "objective": "Simulate authenticated subscriber access over an Ethernet-based WAN.",
+    "platform": [
+      "Huawei eNSP"
+    ],
+    "highlights": [
+      "PPPoE server with Virtual-Template; client with Dialer interfaces",
+      "CHAP authentication and dynamic IP assignment",
+      "NAT and static routing; end-to-end connectivity tested"
+    ],
+    "tags": [
+      "PPPoE",
+      "CHAP",
+      "NAT",
+      "Static Routing"
+    ],
+    "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-huawei-ensp-activity-7458909938875142144-qvU5",
+    "link_label": "View original LinkedIn post ↗",
+    "image": ""
+  },
+  {
+    "category": "Huawei eNSP · Wireshark",
+    "title": "Telnet vs SSH Security Comparison",
+    "objective": "Compare remote-management protocols by inspecting traffic.",
+    "platform": [
+      "Huawei eNSP",
+      "Wireshark"
+    ],
+    "highlights": [
+      "Configured Telnet and SSH remote access",
+      "Captured Telnet and used Follow TCP Stream to see readable credentials",
+      "Verified encrypted SSH traffic after RSA key and AAA setup"
+    ],
+    "tags": [
+      "SSH",
+      "Telnet",
+      "RSA",
+      "AAA"
+    ],
+    "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-networksecurity-huawei-activity-7456394015719034880-JuTm",
+    "link_label": "View original LinkedIn post ↗",
+    "image": ""
+  },
+  {
+    "category": "Huawei eNSP · Security",
+    "title": "AAA Configuration & Network Security",
+    "objective": "Practise authentication and privilege control for remote device access.",
+    "platform": [
+      "Huawei eNSP",
+      "Wireshark"
+    ],
+    "highlights": [
+      "Local users with different privilege levels",
+      "AAA authentication on VTY lines; remote Telnet in lab",
+      "Wireshark analysis and troubleshooting"
+    ],
+    "tags": [
+      "AAA",
+      "VTY",
+      "Privilege Levels"
+    ],
+    "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-huawei-ensp-activity-7456391316923441152-POmD",
+    "link_label": "View original LinkedIn post ↗",
+    "image": ""
+  },
+  {
+    "category": "Huawei eNSP · Routing & Switching",
+    "title": "Huawei Networking Foundations",
+    "objective": "Apply core enterprise networking concepts in simulation.",
+    "platform": [
+      "Huawei eNSP"
+    ],
+    "highlights": [
+      "VLAN segmentation and inter-VLAN routing",
+      "OSPF and VRRP for dynamic routing and gateway redundancy",
+      "IPv4/IPv6, SLAAC, DHCPv6"
+    ],
+    "tags": [
+      "VLAN",
+      "OSPF",
+      "VRRP",
+      "IPv6",
+      "DHCPv6"
+    ],
+    "link": "https://www.linkedin.com/in/mohamed-ahap-network",
+    "link_label": "View LinkedIn profile ↗",
+    "image": ""
+  },
+  {
+    "category": "Ubuntu · CLI",
+    "title": "Linux & CLI Fundamentals",
+    "objective": "Build command-line confidence for systems and networking work.",
+    "platform": [
+      "Ubuntu"
+    ],
+    "highlights": [
+      "File and directory management with mkdir, nano, cat",
+      "Writing/appending with > and >>; stderr redirection with 2>"
+    ],
+    "tags": [
+      "Linux CLI",
+      "Redirection"
+    ],
+    "link": "https://www.linkedin.com/in/mohamed-ahap-network",
+    "link_label": "View LinkedIn profile ↗",
+    "image": ""
+  }
+]
