@@ -1,0 +1,211 @@
+# Pages CMS configuration - lets you edit the portfolio from a web form (no code).
+media:
+  - name: certs
+    label: Certificate images
+    input: certs
+    output: /certs
+    categories: [image]
+    rename: safe
+  - name: labs
+    label: Lab images
+    input: labs
+    output: /labs
+    categories: [image]
+    rename: safe
+  - name: files
+    label: Downloads (PDF)
+    input: files
+    output: /files
+    categories: [document]
+    rename: safe
+
+content:
+  - name: site
+    label: Site texts and contact
+    type: file
+    path: data/site.json
+    format: json
+    operations:
+      delete: false
+    fields:
+      - name: eyebrow
+        label: Small line above name
+        type: string
+      - name: name
+        label: Your name
+        type: string
+      - name: role
+        label: Job title
+        type: string
+      - name: hero_text
+        label: Intro paragraph (top of page)
+        type: text
+      - name: chips
+        label: Highlight chips
+        type: string
+        list: true
+      - name: about_intro
+        label: About - short summary
+        type: text
+      - name: about_text
+        label: About - details (leave a blank line between paragraphs)
+        type: text
+      - name: experience_role
+        label: Experience - job title
+        type: string
+      - name: experience_org
+        label: Experience - company
+        type: string
+      - name: experience_points
+        label: Experience - bullet points
+        type: string
+        list: true
+      - name: languages
+        label: Languages
+        type: string
+      - name: projects_intro
+        label: Labs section - intro
+        type: text
+      - name: projects_note
+        label: Labs section - note at the bottom (leave empty to hide)
+        type: text
+      - name: certs_intro
+        label: Certificates section - intro
+        type: text
+      - name: hcia_verify_url
+        label: HCIA verification link (leave empty to hide the button)
+        type: string
+      - name: education_degree
+        label: Education - degree
+        type: string
+      - name: education_place
+        label: Education - university and date
+        type: string
+      - name: education_grade
+        label: Education - grade
+        type: string
+      - name: cv_file
+        label: CV file (PDF)
+        type: file
+        options:
+          media: files
+      - name: certs_pdf_file
+        label: All certificates (PDF)
+        type: file
+        options:
+          media: files
+      - name: cv_intro
+        label: CV section - text
+        type: text
+      - name: email
+        label: Email
+        type: string
+      - name: phone
+        label: Phone
+        type: string
+      - name: linkedin_url
+        label: LinkedIn link
+        type: string
+      - name: linkedin_label
+        label: LinkedIn text shown
+        type: string
+      - name: contact_note
+        label: Contact - bottom line
+        type: string
+      - name: footer
+        label: Footer text
+        type: string
+
+  - name: certificates
+    label: Certificates
+    type: file
+    path: data/certificates.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Certificate name
+        type: string
+        required: true
+      - name: issuer
+        label: Issued by
+        type: string
+      - name: group
+        label: Filter group
+        type: select
+        options:
+          values: [Huawei, Cisco, HP LIFE, Other]
+      - name: type
+        label: Badge
+        type: select
+        options:
+          values: [Certification, Course completion, Certificate]
+      - name: date
+        label: Date (any text, e.g. 21 Jun 2026)
+        type: string
+      - name: image
+        label: Certificate image (full size)
+        type: image
+        options:
+          media: certs
+      - name: thumb
+        label: Small preview image (optional - if empty the full image is used)
+        type: image
+        options:
+          media: certs
+
+  - name: projects
+    label: Labs and projects
+    type: file
+    path: data/projects.json
+    format: json
+    list: true
+    fields:
+      - name: category
+        label: Small label (e.g. Huawei eNSP - OSPF)
+        type: string
+      - name: title
+        label: Lab title
+        type: string
+        required: true
+      - name: objective
+        label: Objective
+        type: text
+      - name: platform
+        label: Platform / tools
+        type: string
+        list: true
+      - name: highlights
+        label: What I did (bullet points)
+        type: string
+        list: true
+      - name: tags
+        label: Tags
+        type: string
+        list: true
+      - name: link
+        label: Link (LinkedIn post, GitHub...)
+        type: string
+      - name: link_label
+        label: Link text
+        type: string
+      - name: image
+        label: Lab image (topology / screenshot) - optional
+        type: image
+        options:
+          media: labs
+
+  - name: skills
+    label: Skills
+    type: file
+    path: data/skills.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Skill group
+        type: string
+        required: true
+      - name: text
+        label: Skills (separate with dots or commas)
+        type: text
