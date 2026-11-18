@@ -18,8 +18,7 @@
       "Static Routing"
     ],
     "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-huawei-ensp-activity-7458909938875142144-qvU5",
-    "link_label": "View original LinkedIn post ↗",
-    "image": ""
+    "link_label": "View original LinkedIn post ↗"
   },
   {
     "category": "Huawei eNSP · Wireshark",
@@ -41,8 +40,7 @@
       "AAA"
     ],
     "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-networksecurity-huawei-activity-7456394015719034880-JuTm",
-    "link_label": "View original LinkedIn post ↗",
-    "image": ""
+    "link_label": "View original LinkedIn post ↗"
   },
   {
     "category": "Huawei eNSP · Security",
@@ -63,8 +61,7 @@
       "Privilege Levels"
     ],
     "link": "https://www.linkedin.com/posts/mohamed-ahap-network_networking-huawei-ensp-activity-7456391316923441152-POmD",
-    "link_label": "View original LinkedIn post ↗",
-    "image": ""
+    "link_label": "View original LinkedIn post ↗"
   },
   {
     "category": "Huawei eNSP · Routing & Switching",
@@ -86,8 +83,7 @@
       "DHCPv6"
     ],
     "link": "https://www.linkedin.com/in/mohamed-ahap-network",
-    "link_label": "View LinkedIn profile ↗",
-    "image": ""
+    "link_label": "View LinkedIn profile ↗"
   },
   {
     "category": "Ubuntu · CLI",
@@ -105,7 +101,30 @@
       "Redirection"
     ],
     "link": "https://www.linkedin.com/in/mohamed-ahap-network",
-    "link_label": "View LinkedIn profile ↗",
-    "image": ""
+    "link_label": "View LinkedIn profile ↗"
+  },
+  {
+    "category": "Cisco Packet Tracer - Enterprise Switching",
+    "title": "Enterprise Switching Lab: HSRP, Inter-VLAN Routing, DHCP & STP",
+    "objective": "Design a resilient Layer 2/Layer 3 switching network with high availability and efficient traffic flow.",
+    "platform": [
+      "Cisco Packet Tracer"
+    ],
+    "highlights": [
+      "VLAN segmentation, access ports, and 802.1Q trunk links Inter-VLAN routing using SVIs",
+      "HSRP for VLAN gateways with virtual IPs, priority, and preemption",
+      "DHCP pools per VLAN using the HSRP virtual IP as default gateway",
+      "PVST root primary/secondary per VLAN for load balancing and loop prevention"
+    ],
+    "tags": [
+      "VLAN",
+      "Inter-VLAN Routing",
+      "HSRP",
+      "DHCP",
+      "STP"
+    ],
+    "link": "https://lnkd.in/p/dxdMy_F6",
+    "link_label": "View original LinkedIn post ",
+    "image": "/labs/1.jpg"
   }
 ]
